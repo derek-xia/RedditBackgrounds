@@ -11,3 +11,7 @@ add more domains to download from
 set a image size / aspect ratio range
 add a list of url ids so that it doesn't repeat the same images
 add inputs for list of subreddits to choose from
+
+4/20
+added i.redd.it
+random subreddit selection
