@@ -10,8 +10,13 @@ add error messages
 add more domains to download from
 set a image size / aspect ratio range
 add a list of url ids so that it doesn't repeat the same images
-add inputs for list of subreddits to choose from
 
-4/20
+
+6/13/17
+added config file for inputs for list of subreddits to choose from
+added counter in that file that loops across the subreddits in order, not random
+added a random way to pick posts from top 50 in subreddit
+
+4/20/17
 added i.redd.it
 random subreddit selection
